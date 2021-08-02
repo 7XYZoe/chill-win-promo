@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="278px" viewBox="0 0 1440 278" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>footer-bkgr</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-page-1" transform="translate(0.000000, -4076.000000)" fill="#00286E" fill-rule="nonzero">
+            <g id="footer-bg" transform="translate(-45.000000, 4076.000000)">
+                <path d="M0,167.796428 C0,167.796428 178.214167,-1.82964608 357.856462,0.0138630922 C537.498758,1.85737227 1784,68.2339236 1784,68.2339236 L1784,388.998945 L0,388.998945 L0,167.796428 Z" id="footer-bkgr"></path>
+            </g>
+        </g>
+    </g>
+</svg>
