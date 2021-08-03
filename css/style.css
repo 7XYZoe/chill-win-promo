@@ -532,9 +532,9 @@ header .col-3.col-md-9 {
 
 /*Start breadcumb css style 3*/
 .breadcumb-area {
-  background-color: #593087;
+  background-color: #00286E;
   position: relative;
-  padding: 170px 0 140px;
+  padding: 50px 0 100px;
 }
 .breadcumb-area:before {
   position: absolute;
@@ -567,7 +567,7 @@ header .col-3.col-md-9 {
   margin-right: 5px;
 }
 .banner-content ul li a:hover {
-  color: #FEAC01 !important;
+  color: #0BC4FD !important;
 }
 .banner-content ul li i {
   position: relative;
